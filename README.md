@@ -1,4 +1,5 @@
-Protein Binding Pocket Prediction
+**Protein Binding Pocket Prediction
+
 Residue-level prediction of protein binding pockets using ESM protein language model embeddings and a feedforward neural network. 
 Given a protein structure in PDB format, the model classifies each residue as binding pocket or non-binding pocket.
 
